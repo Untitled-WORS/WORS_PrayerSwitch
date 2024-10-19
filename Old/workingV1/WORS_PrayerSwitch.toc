@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: WORS Prayer Switch
+## Notes: Displays a large icon based on target's stance or prayer.
+## Author: YourName
+## Version: 1.0
+
+WORS_PrayerSwitch.lua

@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: WORS Prayer Switch
+## Notes: Displays a large icon based on target's weapon stance and players protection prayer used.
+## Author: Untitled - Discord @Llama69420
+## Version: 1.0
+
+WORS_PrayerSwitch.lua
